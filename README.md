@@ -7,17 +7,15 @@
 </picture>
 </a>
 
+</div>
+
 # S23 Time Attend V2
 
-Time and attendance management system for employees ⏰
+Sistema de control de asistencia y jornada laboral ⏰
 
 <p>
-    <img src="https://img.shields.io/badge/Soul23-111111?style=flat-square&logo=github&logoColor=white" alt="Soul23">
-
-  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
 </p>
-
-</div>
 
 ---
 
@@ -159,4 +157,5 @@ El dispositivo envía este JSON al servidor:
 
 ## 📄 Licencia
 MIT License.
+
 
