@@ -14,7 +14,8 @@
 Sistema de control de asistencia y jornada laboral ⏰
 
 <p>
-  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
+  <img src="https://img.shields.io/badge/Español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
+  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
 </p>
 
 ---
@@ -157,5 +158,6 @@ El dispositivo envía este JSON al servidor:
 
 ## 📄 Licencia
 MIT License.
+
 
 
