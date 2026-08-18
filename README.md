@@ -1,23 +1,39 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo.svg" width="110" alt="Soul23">
+  <a href="https://soul23.mx">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_wh.png">
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_blk.png">
+      <img
+        src="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_blk.png"
+        width="110"
+        alt="Soul:23">
+    </picture>
+  </a>
 </p>
 
 <h1 align="center">S23 Time Attend V2</h1>
 
 <p align="center">
-  Sistema de control de asistencia y jornada ⏰
+  Sistema de control de asistencia y jornada — dispositivo IoT basado en ESP32-S3.
 </p>
 
 <p align="center">
-  
+  <img src="https://img.shields.io/badge/C++-3a3a3a?style=flat-square&logo=cpp&logoColor=white">
+  <img src="https://img.shields.io/badge/ESP32-3a3a3a?style=flat-square&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/PlatformIO-3a3a3a?style=flat-square&logo=platformio&logoColor=white">
 </p>
 
-  Sistema de control de asistencia y jornada ⏰
-</p>
+---
 
-<p align="center">
-  
-</p>
+## Description
+
+Sistema de control de asistencia y jornada en hardware: Time & Attendance IoT device basado en ESP32-S3 con diagrama de conexión (pinout seguro), guía de inicio rápido y carga de firmware.
+
+C++ con PlatformIO/Arduino.
 
 ## ⚡️ Características Destacadas
 
